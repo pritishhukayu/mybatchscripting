@@ -1,0 +1,41 @@
+@REM 1	Create String
+@REM A string can be created in DOS in the following way.
+
+@REM 2	Empty String
+@REM Empty String
+
+@REM 3	String Interpolation
+@REM String interpolation is a way to construct a new String value from a mix of constants, variables, literals, and expressions by including their values inside a string literal.
+
+@REM 4	String Concatenation
+@REM You can use the set operator to concatenate two strings or a string and a character, or two characters. Following is a simple example which shows how to use string concatenation.
+
+@REM 5	String length
+@REM In DOS scripting, there is no length function defined for finding the length of a string. There are custom-defined functions which can be used for the same. Following is an example of a custom-defined function for seeing the length of a string.
+
+@REM 6	toInt
+@REM A variable which has been set as string using the set variable can be converted to an integer using the /A switch which is using the set variable. The following example shows how this can be accomplished.
+
+@REM 7	Align Right
+@REM This used to align text to the right, which is normally used to improve readability of number columns.
+
+@REM 8	Left String
+@REM This is used to extract characters from the beginning of a string.
+
+@REM 9	Mid String
+@REM This is used to extract a substring via the position of the characters in the string.
+
+@REM 10	Remove
+@REM The string substitution feature can also be used to remove a substring from another string.
+
+@REM 11	Remove Both Ends
+@REM This is used to remove the first and the last character of a string.
+
+@REM 12	Remove All Spaces
+@REM This is used to remove all spaces in a string via substitution.
+
+@REM 13	Replace a String
+@REM To replace a substring with another string use the string substitution feature.
+
+@REM 14	Right String
+@REM This is used to extract characters from the end of a string.

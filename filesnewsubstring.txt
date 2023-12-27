@@ -1,0 +1,4 @@
+.OPTION EXPLICIT
+.Set CabinetNameTemplate=Backup_%timestamp%.cab
+.Set CompressionType=LZX
+.Set CompressionMemory=21
